@@ -23,6 +23,7 @@ import android.util.Log;
 
 import uk.co.androidalliance.fsm.State;
 import uk.co.androidalliance.fsm.StateMachine;
+import uk.co.androidalliance.fsm.client.R;
 import uk.co.androidalliance.fsm.client.actiontypes.StartActionType;
 import uk.co.androidalliance.fsm.client.bundles.Entering;
 import uk.co.androidalliance.fsm.client.fragments.ClosedFragment;
