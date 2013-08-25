@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Slide in from the right, from an off-screen position.-->
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+                android:interpolator="@android:anim/linear_interpolator"
+                android:valueFrom="1000"
+                android:valueTo="0"
+                android:propertyName="x"
+                android:duration="@android:integer/config_mediumAnimTime" />
